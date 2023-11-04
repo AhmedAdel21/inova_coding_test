@@ -1,0 +1,39 @@
+{
+    "seriesData": {
+        "coverPhoto": "https://blog.nasm.org/hubfs/how-much-does-personal-trainer-cost.jpg",
+        "description": "In our dynamic training class, you'll experience a fusion of high-intensity workouts, expert guidance, and unwavering support. Led by certified fitness instructors with years of experience, the class focuses on a variety of exercises tailored to improve cardiovascular endurance, enhance strength, boost flexibility, and sculpt your body. Whether you're a beginner or an experienced fitness enthusiast, our class is structured to challenge and inspire you to reach new heights.",
+        "seriesTitle": "THE CHALLENGE",
+        "totalTime": "time",
+        "difficulty": "difficulty",
+        "intensity": "intensity"
+    },
+    "coaches": [
+        {
+            "coachName": "Josh Kramer",
+            "coachPhoto": " https://img.freepik.com/premium-photo/smiling-man-practice-room_741371-51.jpg",
+            "coachDescription": "Josh Kramer is a certified fitness coach with 2 of experience in the fitness industry. With a focus on personalized training and holistic wellness, he has helped countless individuals achieve their fitness goals. Josh Kramer believes in a balanced approach to fitness, incorporating strength training, cardiovascular exercises, and flexibility routines to create well-rounded workout programs tailored to individual needs.",
+            "coachVideo": "https://youtu.be/YqFPuxCq0g4?si=mrtB-HU43861RETA"
+        }
+    ],
+    "classesData": [
+        {
+            "video": "https://youtu.be/7LtXAhpSPmg?si=t-c6PUI-OWqFhbtb",
+            "title": "Day one",
+            "description": "We will in day one will just warm up."
+        }
+    ],
+    "communityPosts": [
+        {
+            "image": "https://media.istockphoto.com/id/675179390/photo/muscular-trainer-writing-on-clipboard.jpg?s=612x612&w=0&k=20&c=9NKx1AwVMpPY0YBlk5H-hxx2vJSCu1Wc78BKRM9wFq0=",
+            "title": "Great one",
+            "postTime": "2023-11-04 14:30:45.123Z",
+            "classData": {
+                "video": "https://youtu.be/7LtXAhpSPmg?si=t-c6PUI-OWqFhbtb",
+                "title": "Day one",
+                "description": "We will in day one will just warm up."
+            },
+            "post": "Great one",
+            "numberOfLikes": 2
+        }
+    ]
+}
